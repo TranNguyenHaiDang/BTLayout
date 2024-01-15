@@ -1,0 +1,40 @@
+.container{
+    width : 50%;
+    height :300px;
+    background-color:rgba(50, 205, 50, 0.639);
+    margin-left: 300px;
+    border: solid 2px;
+    margin-top: 190px;
+}
+.header{
+    border: solid 2px;
+    height:40px;
+    border-top :none;
+    border-right: none;
+    border-left: none;
+}
+.nav{
+    border: solid 2px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    height:25px;
+}
+.section{
+    margin-left: 3px;
+}
+.article{
+    margin-left: 20px;
+    border: solid 2px;
+    width:95%;
+    height:160px;
+    background-color: bisque;
+}
+.footer{
+   border-top: none;
+   margin-top: 10px;;
+    border: solid 2px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+}

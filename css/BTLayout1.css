@@ -1,0 +1,28 @@
+.container{
+    width : 50%;
+    height :300px;
+    background-color:rgba(233, 150, 122, 0.479);
+    margin-left: 300px;
+    border: solid 2px;
+}
+.header{
+    text-align: center;
+    height:40px;
+    border: solid 1px;
+    border-top :none;
+    border-right: none;
+    border-left: none;
+}
+.section{
+    padding-top:10px;
+    margin-left: 15px;
+}
+.footer{
+    margin-top: 190px;
+    text-align: center;
+    border: solid 2px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    height:40px;
+}
